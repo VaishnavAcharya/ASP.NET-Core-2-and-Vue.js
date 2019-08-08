@@ -1,0 +1,14 @@
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.csprojAssemblyReference.cache
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.csproj.CoreCompileInputs.cache
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.AssemblyInfoInputs.cache
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.AssemblyInfo.cs
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\bin\Debug\netcoreapp2.2\ECommerce.Data.deps.json
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\bin\Debug\netcoreapp2.2\ECommerce.Data.dll
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\bin\Debug\netcoreapp2.2\ECommerce.Domain.Model.dll
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\bin\Debug\netcoreapp2.2\ECommerce.Domain.Model.pdb
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.csproj.CopyComplete
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\bin\Debug\netcoreapp2.2\ECommerce.Data.runtimeconfig.json
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\bin\Debug\netcoreapp2.2\ECommerce.Data.runtimeconfig.dev.json
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\bin\Debug\netcoreapp2.2\ECommerce.Data.pdb
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.dll
+D:\Test Projects\vue.js\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.pdb
