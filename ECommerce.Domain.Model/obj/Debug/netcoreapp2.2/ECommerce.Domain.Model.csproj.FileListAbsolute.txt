@@ -9,3 +9,14 @@ D:\Test Projects\vue.js\ECommerce\ECommerce.Domain.Model\obj\Debug\netcoreapp2.2
 D:\Test Projects\vue.js\ECommerce\ECommerce.Domain.Model\bin\Debug\netcoreapp2.2\ECommerce.Domain.Model.runtimeconfig.json
 D:\Test Projects\vue.js\ECommerce\ECommerce.Domain.Model\bin\Debug\netcoreapp2.2\ECommerce.Domain.Model.runtimeconfig.dev.json
 D:\Test Projects\vue.js\ECommerce\ECommerce.Domain.Model\obj\Debug\netcoreapp2.2\ECommerce.Domain.Model.csprojAssemblyReference.cache
+D:\Test Projects\Github\ECommerce\ECommerce.Domain.Model\bin\Debug\netcoreapp2.2\ECommerce.Domain.Model.deps.json
+D:\Test Projects\Github\ECommerce\ECommerce.Domain.Model\bin\Debug\netcoreapp2.2\ECommerce.Domain.Model.runtimeconfig.json
+D:\Test Projects\Github\ECommerce\ECommerce.Domain.Model\bin\Debug\netcoreapp2.2\ECommerce.Domain.Model.runtimeconfig.dev.json
+D:\Test Projects\Github\ECommerce\ECommerce.Domain.Model\bin\Debug\netcoreapp2.2\ECommerce.Domain.Model.dll
+D:\Test Projects\Github\ECommerce\ECommerce.Domain.Model\bin\Debug\netcoreapp2.2\ECommerce.Domain.Model.pdb
+D:\Test Projects\Github\ECommerce\ECommerce.Domain.Model\obj\Debug\netcoreapp2.2\ECommerce.Domain.Model.csprojAssemblyReference.cache
+D:\Test Projects\Github\ECommerce\ECommerce.Domain.Model\obj\Debug\netcoreapp2.2\ECommerce.Domain.Model.csproj.CoreCompileInputs.cache
+D:\Test Projects\Github\ECommerce\ECommerce.Domain.Model\obj\Debug\netcoreapp2.2\ECommerce.Domain.Model.AssemblyInfoInputs.cache
+D:\Test Projects\Github\ECommerce\ECommerce.Domain.Model\obj\Debug\netcoreapp2.2\ECommerce.Domain.Model.AssemblyInfo.cs
+D:\Test Projects\Github\ECommerce\ECommerce.Domain.Model\obj\Debug\netcoreapp2.2\ECommerce.Domain.Model.dll
+D:\Test Projects\Github\ECommerce\ECommerce.Domain.Model\obj\Debug\netcoreapp2.2\ECommerce.Domain.Model.pdb
